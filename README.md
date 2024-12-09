@@ -1,22 +1,10 @@
 My Profile
-## Name
-JOHN LOREBNCE B. VALIOS
-
-## Education
-Bachelor of Science in Information Technology New Era University
-
-## Certifications
-
-[SOL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5c27b9941bf742119087a9f0493944ec)
-
-[Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=730732308584176AB97E0720D9F95B06E9B83B5EB653EDA3DA6D622E11B7A7D5)
-
-## Skillsets
-Programming
-Designing
 
 <h1 align="center">Hi 👋, I'm JOHN LORENCE VALIOS</h1>
 <h3 align="center">A passionate IT Student from New Era University</h3>
+
+## Education
+Bachelor of Science in Information Technology New Era University
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawrnz765&label=Profile%20views&color=0e75b6&style=flat" alt="lawrnz765" /> </p>
 
@@ -26,7 +14,13 @@ Designing
 
 - 📫 How to reach me **lorenzbalyos@gmail.com**
 
-- ⚡ Fun fact **I think I'm not**
+- ⚡ Fun fact **I think I'm Ugly**
+
+- ## Certifications
+
+[SOL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5c27b9941bf742119087a9f0493944ec)
+
+[Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=730732308584176AB97E0720D9F95B06E9B83B5EB653EDA3DA6D622E11B7A7D5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
