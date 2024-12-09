@@ -5,7 +5,7 @@ JOHN LOREBNCE B. VALIOS
 ## Education
 Bachelor of Science in Information Technology New Era University
 
-##Certifications
+## Certifications
 
 [SOL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5c27b9941bf742119087a9f0493944ec)
 
