@@ -22,6 +22,10 @@ Bachelor of Science in Information Technology New Era University
 
 [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=730732308584176AB97E0720D9F95B06E9B83B5EB653EDA3DA6D622E11B7A7D5)
 
+[Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=730732308584176AB97E0720D9F95B06D7189ACD6BD7E2927DB253D3D77612A7)
+
+[Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=514DC346FF4BADF31FB13A3F2A4E9D2D06BA92438D020587BF130CE4AD90E8B2)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/Jazzrence.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lorence" height="30" width="40" /></a>
