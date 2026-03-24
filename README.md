@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Featured Project: NEU Library Log System
+### 🚀 Featured Project: NEU Library Log!
 **A real-time visitor management system built for New Era University.**
 - **Live Demo:** [Check it out here!](https://neu-library-log-37cb2.web.app)
 - **Tech Stack:** HTML5, CSS3 (Dark UI), JavaScript (ES6), Firebase (Firestore & Hosting).
